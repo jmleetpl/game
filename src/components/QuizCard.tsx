@@ -48,6 +48,7 @@ export default function QuizCard({
 
   const isAnswered = selected !== null;
   const isCorrect = selected === quiz.answer;
+  const imageSrc = `${import.meta.env.BASE_URL}${quiz.imageUrl.replace(/^\//, '')}`;
 
   return (
     <div className="quiz-card">
@@ -66,7 +67,7 @@ export default function QuizCard({
       <div className="image-frame">
         {!imageBroken ? (
           <img
-            src={quiz.imageUrl}
+            src={imageSrc}
             alt={`${quiz.titleKo} 발그림`}
             className="quiz-image"
             onError={() => setImageBroken(true)}
