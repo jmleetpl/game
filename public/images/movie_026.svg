@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <rect width="480" height="360" fill="#1a1a2a"/>
+  <!-- streaky lights -->
+  <line x1="0" y1="100" x2="480" y2="100" stroke="#fff" stroke-width="1" opacity="0.4"/>
+  <line x1="0" y1="60" x2="480" y2="60" stroke="#ff0" stroke-width="1" opacity="0.4"/>
+  <!-- street motion blur -->
+  <line x1="0" y1="320" x2="480" y2="320" stroke="#888" stroke-width="2"/>
+  <line x1="0" y1="340" x2="30" y2="340" stroke="#ff0" stroke-width="3"/><line x1="60" y1="340" x2="90" y2="340" stroke="#ff0" stroke-width="3"/><line x1="120" y1="340" x2="150" y2="340" stroke="#ff0" stroke-width="3"/><line x1="180" y1="340" x2="210" y2="340" stroke="#ff0" stroke-width="3"/><line x1="240" y1="340" x2="270" y2="340" stroke="#ff0" stroke-width="3"/><line x1="300" y1="340" x2="330" y2="340" stroke="#ff0" stroke-width="3"/><line x1="360" y1="340" x2="390" y2="340" stroke="#ff0" stroke-width="3"/><line x1="420" y1="340" x2="450" y2="340" stroke="#ff0" stroke-width="3"/>
+  <!-- police car (side) -->
+  <rect x="60" y="220" width="360" height="80" fill="#fff" stroke="#000" stroke-width="3"/>
+  <rect x="80" y="180" width="320" height="40" fill="#fff" stroke="#000" stroke-width="3"/>
+  <rect x="120" y="190" width="100" height="30" fill="#9be" stroke="#000" stroke-width="2"/>
+  <rect x="240" y="190" width="100" height="30" fill="#9be" stroke="#000" stroke-width="2"/>
+  <!-- POLICE stripe -->
+  <rect x="60" y="260" width="360" height="14" fill="#1a3aff"/>
+  <text x="240" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">POLICE</text>
+  <!-- light bar -->
+  <rect x="160" y="170" width="60" height="14" fill="#a00" stroke="#000" stroke-width="2"/>
+  <rect x="220" y="170" width="60" height="14" fill="#1a3aff" stroke="#000" stroke-width="2"/>
+  <!-- wheels -->
+  <circle cx="120" cy="310" r="22" fill="#000"/>
+  <circle cx="120" cy="310" r="10" fill="#888"/>
+  <circle cx="360" cy="310" r="22" fill="#000"/>
+  <circle cx="360" cy="310" r="10" fill="#888"/>
+  <!-- joker leaning out passenger window upside-down -->
+  <g transform="translate(280 200)">
+    <!-- head upside (below window) -->
+    <circle cx="0" cy="40" r="20" fill="#e8f8e8" stroke="#000" stroke-width="3"/>
+    <!-- green hair flying back (down to car) -->
+    <path d="M-20 50 Q -50 80 -80 100 Q -50 70 -30 60 Z" fill="#0a0" stroke="#000" stroke-width="2"/>
+    <path d="M-10 60 Q -40 100 -70 120 Q -30 90 -20 70 Z" fill="#0a0" stroke="#000" stroke-width="2"/>
+    <!-- face paint -->
+    <polygon points="-8,32 -4,38 -2,28" fill="#fff"/>
+    <polygon points="8,32 4,38 2,28" fill="#fff"/>
+    <circle cx="-5" cy="34" r="1.5" fill="#000"/>
+    <circle cx="5" cy="34" r="1.5" fill="#000"/>
+    <!-- wide grin (upside down so it looks frowny but mouth big) -->
+    <path d="M-12 46 Q 0 38 12 46" fill="none" stroke="#a00" stroke-width="3"/>
+    <line x1="-12" y1="46" x2="-18" y2="50" stroke="#a00" stroke-width="3"/>
+    <line x1="12" y1="46" x2="18" y2="50" stroke="#a00" stroke-width="3"/>
+    <!-- arm hanging out blissful -->
+    <line x1="0" y1="20" x2="-10" y2="-20" stroke="#9a5acf" stroke-width="6"/>
+  </g>
+  <rect x="140" y="14" width="200" height="22" fill="#000" stroke="#0f0" stroke-width="2"/>
+   <text x="240" y="30" text-anchor="middle" font-size="14" font-weight="bold" fill="#0f0">WHY SO SERIOUS?</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

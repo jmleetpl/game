@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <rect width="480" height="360" fill="#cce0ff"/>
+  <!-- closet doors -->
+  <rect x="80" y="40" width="320" height="300" fill="#a07a5a" stroke="#000" stroke-width="4"/>
+  <line x1="240" y1="40" x2="240" y2="340" stroke="#000" stroke-width="3"/>
+  <rect x="160" y="180" width="20" height="6" fill="#5a3a1a"/>
+  <rect x="300" y="180" width="20" height="6" fill="#5a3a1a"/>
+  <!-- inside dim -->
+  <rect x="86" y="46" width="308" height="288" fill="#5a4030"/>
+  <!-- hanging clothes outline -->
+  <g stroke="#000" stroke-width="2" fill="none">
+    <line x1="120" y1="70" x2="380" y2="70"/>
+    
+      <line x1="140" y1="70" x2="140" y2="80" stroke="#000"/>
+      <polygon points="126,80 154,80 158,150 122,150" fill="#3a2010"/>
+    
+      <line x1="180" y1="70" x2="180" y2="80" stroke="#000"/>
+      <polygon points="166,80 194,80 198,150 162,150" fill="#3a2010"/>
+    
+      <line x1="220" y1="70" x2="220" y2="80" stroke="#000"/>
+      <polygon points="206,80 234,80 238,150 202,150" fill="#3a2010"/>
+    
+      <line x1="320" y1="70" x2="320" y2="80" stroke="#000"/>
+      <polygon points="306,80 334,80 338,150 302,150" fill="#3a2010"/>
+    
+      <line x1="360" y1="70" x2="360" y2="80" stroke="#000"/>
+      <polygon points="346,80 374,80 378,150 342,150" fill="#3a2010"/>
+    
+  </g>
+  <!-- crouching figure -->
+  <g transform="translate(240 220)">
+    <circle cx="0" cy="-30" r="18" fill="#ffe0c0" stroke="#000" stroke-width="3"/>
+    <!-- short brown hair -->
+    <path d="M-16 -36 Q 0 -50 16 -36 L 12 -28 L -12 -28 Z" fill="#7a3a1a"/>
+    <!-- eyes squeezed shut -->
+    <line x1="-8" y1="-32" x2="-2" y2="-32" stroke="#000" stroke-width="2"/>
+    <line x1="2" y1="-32" x2="8" y2="-32" stroke="#000" stroke-width="2"/>
+    <!-- mouth tense -->
+    <line x1="-4" y1="-22" x2="4" y2="-22" stroke="#000" stroke-width="2"/>
+    <!-- folded body -->
+    <polygon points="-14,-12 14,-12 18,30 -18,30" fill="#2a4a8a" stroke="#000" stroke-width="3"/>
+    <!-- arms hugging knees -->
+    <line x1="-14" y1="-2" x2="-22" y2="20" stroke="#2a4a8a" stroke-width="6"/>
+    <line x1="14" y1="-2" x2="22" y2="20" stroke="#2a4a8a" stroke-width="6"/>
+    <!-- clenched fists -->
+    <circle cx="-22" cy="20" r="6" fill="#ffe0c0" stroke="#000" stroke-width="2"/>
+    <circle cx="22" cy="20" r="6" fill="#ffe0c0" stroke="#000" stroke-width="2"/>
+    <!-- bent legs (knees up) -->
+    <line x1="-10" y1="30" x2="-30" y2="50" stroke="#3a2010" stroke-width="8"/>
+    <line x1="-30" y1="50" x2="-20" y2="80" stroke="#3a2010" stroke-width="8"/>
+    <line x1="10" y1="30" x2="30" y2="50" stroke="#3a2010" stroke-width="8"/>
+    <line x1="30" y1="50" x2="20" y2="80" stroke="#3a2010" stroke-width="8"/>
+  </g>
+  <!-- swirling time arrows around figure -->
+  <g fill="none" stroke="#ff0" stroke-width="3">
+    <path d="M150 220 Q 120 180 150 140" stroke-dasharray="6 4"/>
+    <polygon points="150,140 145,148 158,148" fill="#ff0"/>
+    <path d="M330 220 Q 360 180 330 140" stroke-dasharray="6 4"/>
+    <polygon points="330,140 322,148 335,148" fill="#ff0"/>
+  </g>
+  <!-- reverse clock above head -->
+  <circle cx="240" cy="100" r="28" fill="#fff" stroke="#000" stroke-width="3"/>
+  <text x="240" y="86" text-anchor="middle" font-size="9">12</text>
+  <text x="216" y="104" text-anchor="middle" font-size="9">9</text>
+  <text x="240" y="124" text-anchor="middle" font-size="9">6</text>
+  <text x="262" y="104" text-anchor="middle" font-size="9">3</text>
+  <line x1="240" y1="100" x2="240" y2="84" stroke="#000" stroke-width="3"/>
+  <line x1="240" y1="100" x2="226" y2="100" stroke="#000" stroke-width="3"/>
+  <path d="M268 92 A 24 24 0 1 0 268 108" fill="none" stroke="#a00" stroke-width="3"/>
+  <polygon points="266,108 274,112 274,104" fill="#a00"/>
+  <rect x="127" y="326" width="226" height="22" fill="#fff" stroke="#000" stroke-width="2"/>
+   <text x="240" y="342" text-anchor="middle" font-size="14" font-weight="bold" fill="#000">CLOSET = TIME MACHINE</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

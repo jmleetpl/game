@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <defs><linearGradient id="g21" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#6abfd9"/><stop offset="100%" stop-color="#2a4a6a"/></linearGradient></defs>
+  <rect width="480" height="360" fill="url(#g21)"/>
+  <!-- wave: huge curl -->
+  <path d="M0 360 L 0 80 Q 80 40 160 80 Q 240 130 280 80 Q 320 40 340 90 Q 360 140 350 200 Q 320 220 290 180 Q 280 200 290 240 L 380 240 L 380 360 Z" fill="#3a8eff" stroke="#000" stroke-width="4"/>
+  <!-- foam highlights -->
+  <path d="M120 70 Q 160 50 200 70" fill="none" stroke="#fff" stroke-width="3"/>
+  <path d="M260 70 Q 290 60 320 80" fill="none" stroke="#fff" stroke-width="3"/>
+  <!-- spray -->
+  <g fill="#fff">
+    <circle cx="200" cy="60" r="2"/><circle cx="220" cy="50" r="3"/><circle cx="240" cy="55" r="2"/>
+    <circle cx="270" cy="50" r="2"/><circle cx="300" cy="60" r="3"/>
+  </g>
+  <!-- tiny astronaut on water -->
+  <g transform="translate(420 280)">
+    <circle cx="0" cy="0" r="6" fill="#fff" stroke="#000" stroke-width="2"/>
+    <line x1="0" y1="6" x2="0" y2="14" stroke="#000" stroke-width="2"/>
+    <line x1="-4" y1="10" x2="-8" y2="14" stroke="#000" stroke-width="2"/>
+    <line x1="4" y1="10" x2="8" y2="14" stroke="#000" stroke-width="2"/>
+    <line x1="0" y1="14" x2="-3" y2="22" stroke="#000" stroke-width="2"/>
+    <line x1="0" y1="14" x2="3" y2="22" stroke="#000" stroke-width="2"/>
+    <text x="-12" y="-6" font-size="10" fill="#fff">!!!</text>
+  </g>
+  <!-- tiny ship -->
+  <ellipse cx="430" cy="320" rx="20" ry="6" fill="#888" stroke="#000" stroke-width="2"/>
+  <rect x="102" y="326" width="276" height="22" fill="#fff" stroke="#000" stroke-width="2"/>
+   <text x="240" y="342" text-anchor="middle" font-size="14" font-weight="bold" fill="#000">JUST A WAVE. SLIGHTLY BIG.</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

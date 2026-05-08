@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <rect width="480" height="360" fill="#5a7a8a"/>
+  <!-- rain -->
+  <line x1="66" y1="326" x2="58" y2="344" stroke="#fff" stroke-width="1.5"/><line x1="299" y1="115" x2="291" y2="133" stroke="#fff" stroke-width="1.5"/><line x1="253" y1="196" x2="245" y2="214" stroke="#fff" stroke-width="1.5"/><line x1="377" y1="250" x2="369" y2="268" stroke="#fff" stroke-width="1.5"/><line x1="421" y1="260" x2="413" y2="278" stroke="#fff" stroke-width="1.5"/><line x1="63" y1="325" x2="55" y2="343" stroke="#fff" stroke-width="1.5"/><line x1="189" y1="349" x2="181" y2="367" stroke="#fff" stroke-width="1.5"/><line x1="245" y1="289" x2="237" y2="307" stroke="#fff" stroke-width="1.5"/><line x1="397" y1="139" x2="389" y2="157" stroke="#fff" stroke-width="1.5"/><line x1="422" y1="89" x2="414" y2="107" stroke="#fff" stroke-width="1.5"/><line x1="155" y1="172" x2="147" y2="190" stroke="#fff" stroke-width="1.5"/><line x1="58" y1="22" x2="50" y2="40" stroke="#fff" stroke-width="1.5"/><line x1="39" y1="310" x2="31" y2="328" stroke="#fff" stroke-width="1.5"/><line x1="84" y1="104" x2="76" y2="122" stroke="#fff" stroke-width="1.5"/><line x1="92" y1="80" x2="84" y2="98" stroke="#fff" stroke-width="1.5"/><line x1="316" y1="203" x2="308" y2="221" stroke="#fff" stroke-width="1.5"/><line x1="450" y1="269" x2="442" y2="287" stroke="#fff" stroke-width="1.5"/><line x1="128" y1="267" x2="120" y2="285" stroke="#fff" stroke-width="1.5"/><line x1="252" y1="128" x2="244" y2="146" stroke="#fff" stroke-width="1.5"/><line x1="0" y1="284" x2="-8" y2="302" stroke="#fff" stroke-width="1.5"/><line x1="194" y1="187" x2="186" y2="205" stroke="#fff" stroke-width="1.5"/><line x1="131" y1="326" x2="123" y2="344" stroke="#fff" stroke-width="1.5"/><line x1="401" y1="239" x2="393" y2="257" stroke="#fff" stroke-width="1.5"/><line x1="23" y1="88" x2="15" y2="106" stroke="#fff" stroke-width="1.5"/><line x1="479" y1="280" x2="471" y2="298" stroke="#fff" stroke-width="1.5"/><line x1="272" y1="265" x2="264" y2="283" stroke="#fff" stroke-width="1.5"/><line x1="391" y1="84" x2="383" y2="102" stroke="#fff" stroke-width="1.5"/><line x1="148" y1="190" x2="140" y2="208" stroke="#fff" stroke-width="1.5"/><line x1="353" y1="89" x2="345" y2="107" stroke="#fff" stroke-width="1.5"/><line x1="333" y1="331" x2="325" y2="349" stroke="#fff" stroke-width="1.5"/><line x1="187" y1="113" x2="179" y2="131" stroke="#fff" stroke-width="1.5"/><line x1="97" y1="216" x2="89" y2="234" stroke="#fff" stroke-width="1.5"/><line x1="39" y1="163" x2="31" y2="181" stroke="#fff" stroke-width="1.5"/><line x1="381" y1="300" x2="373" y2="318" stroke="#fff" stroke-width="1.5"/><line x1="56" y1="329" x2="48" y2="347" stroke="#fff" stroke-width="1.5"/><line x1="229" y1="293" x2="221" y2="311" stroke="#fff" stroke-width="1.5"/><line x1="238" y1="273" x2="230" y2="291" stroke="#fff" stroke-width="1.5"/><line x1="447" y1="321" x2="439" y2="339" stroke="#fff" stroke-width="1.5"/><line x1="195" y1="41" x2="187" y2="59" stroke="#fff" stroke-width="1.5"/><line x1="28" y1="357" x2="20" y2="375" stroke="#fff" stroke-width="1.5"/><line x1="14" y1="122" x2="6" y2="140" stroke="#fff" stroke-width="1.5"/><line x1="71" y1="264" x2="63" y2="282" stroke="#fff" stroke-width="1.5"/><line x1="352" y1="295" x2="344" y2="313" stroke="#fff" stroke-width="1.5"/><line x1="286" y1="171" x2="278" y2="189" stroke="#fff" stroke-width="1.5"/><line x1="377" y1="167" x2="369" y2="185" stroke="#fff" stroke-width="1.5"/><line x1="465" y1="328" x2="457" y2="346" stroke="#fff" stroke-width="1.5"/><line x1="339" y1="1" x2="331" y2="19" stroke="#fff" stroke-width="1.5"/><line x1="401" y1="151" x2="393" y2="169" stroke="#fff" stroke-width="1.5"/><line x1="244" y1="239" x2="236" y2="257" stroke="#fff" stroke-width="1.5"/><line x1="27" y1="126" x2="19" y2="144" stroke="#fff" stroke-width="1.5"/><line x1="92" y1="85" x2="84" y2="103" stroke="#fff" stroke-width="1.5"/><line x1="368" y1="289" x2="360" y2="307" stroke="#fff" stroke-width="1.5"/><line x1="294" y1="45" x2="286" y2="63" stroke="#fff" stroke-width="1.5"/><line x1="95" y1="78" x2="87" y2="96" stroke="#fff" stroke-width="1.5"/><line x1="241" y1="226" x2="233" y2="244" stroke="#fff" stroke-width="1.5"/><line x1="130" y1="175" x2="122" y2="193" stroke="#fff" stroke-width="1.5"/><line x1="227" y1="355" x2="219" y2="373" stroke="#fff" stroke-width="1.5"/><line x1="334" y1="45" x2="326" y2="63" stroke="#fff" stroke-width="1.5"/><line x1="463" y1="260" x2="455" y2="278" stroke="#fff" stroke-width="1.5"/><line x1="298" y1="98" x2="290" y2="116" stroke="#fff" stroke-width="1.5"/>
+  <!-- water with ripples -->
+  <rect x="0" y="240" width="480" height="120" fill="#2a4a6a"/>
+  <ellipse cx="60" cy="280" rx="14" ry="3" fill="none" stroke="#fff" stroke-width="1"/><ellipse cx="120" cy="280" rx="14" ry="3" fill="none" stroke="#fff" stroke-width="1"/><ellipse cx="180" cy="280" rx="14" ry="3" fill="none" stroke="#fff" stroke-width="1"/><ellipse cx="240" cy="280" rx="14" ry="3" fill="none" stroke="#fff" stroke-width="1"/><ellipse cx="300" cy="280" rx="14" ry="3" fill="none" stroke="#fff" stroke-width="1"/><ellipse cx="360" cy="280" rx="14" ry="3" fill="none" stroke="#fff" stroke-width="1"/><ellipse cx="420" cy="280" rx="14" ry="3" fill="none" stroke="#fff" stroke-width="1"/><ellipse cx="480" cy="280" rx="14" ry="3" fill="none" stroke="#fff" stroke-width="1"/>
+  <!-- rowboat -->
+  <path d="M120 240 L 360 240 L 340 290 L 140 290 Z" fill="#7a4a2a" stroke="#000" stroke-width="3"/>
+  <line x1="180" y1="260" x2="180" y2="285" stroke="#5a2a1a" stroke-width="2"/>
+  <line x1="300" y1="260" x2="300" y2="285" stroke="#5a2a1a" stroke-width="2"/>
+  <!-- two heads kissing in profile -->
+  <g transform="translate(240 180)">
+    <!-- her hair right -->
+    <path d="M14 -8 Q 30 0 28 30 Q 18 36 14 30 Z" fill="#7a3a1a"/>
+    <circle cx="14" cy="0" r="14" fill="#ffe0c0" stroke="#000" stroke-width="3"/>
+    <line x1="22" y1="0" x2="26" y2="0" stroke="#000" stroke-width="1"/>
+    <!-- his hair left -->
+    <path d="M-14 -8 Q -28 -8 -28 12 L -16 12 Z" fill="#3a2010"/>
+    <circle cx="-14" cy="0" r="14" fill="#ffe0c0" stroke="#000" stroke-width="3"/>
+    <line x1="-22" y1="0" x2="-26" y2="0" stroke="#000" stroke-width="1"/>
+    <!-- lips overlap -->
+    <ellipse cx="0" cy="2" rx="6" ry="3" fill="#a00"/>
+    <!-- arms wrapping -->
+    <path d="M-25 14 Q -10 30 14 14" fill="none" stroke="#000" stroke-width="3"/>
+    <!-- bodies -->
+    <polygon points="-26,14 -2,14 -8,60 -36,60" fill="#3a3a3a"/>
+    <polygon points="2,14 26,14 36,60 8,60" fill="#a05050"/>
+  </g>
+  <rect x="100" y="14" width="280" height="22" fill="#000" stroke="#fff" stroke-width="2"/>
+   <text x="240" y="30" text-anchor="middle" font-size="14" font-weight="bold" fill="#fff">KISS + RAIN = MOVIE</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

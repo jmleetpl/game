@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <rect width="480" height="360" fill="#dde6f0"/>
+  <!-- folded sky on top -->
+  <rect x="0" y="0" width="480" height="180" fill="#3a8eff"/>
+  <!-- bottom row of buildings (normal) -->
+  <rect x="0" y="200" width="50" height="80" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="6" y="210" width="14" height="10" fill="#ff0"/><rect x="28" y="210" width="14" height="10" fill="#ff0"/><rect x="6" y="228" width="14" height="10" fill="#ff0"/><rect x="28" y="228" width="14" height="10" fill="#ff0"/><rect x="60" y="170" width="50" height="110" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="66" y="180" width="14" height="10" fill="#ff0"/><rect x="88" y="180" width="14" height="10" fill="#ff0"/><rect x="66" y="198" width="14" height="10" fill="#ff0"/><rect x="88" y="198" width="14" height="10" fill="#ff0"/><rect x="120" y="140" width="50" height="140" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="126" y="150" width="14" height="10" fill="#ff0"/><rect x="148" y="150" width="14" height="10" fill="#ff0"/><rect x="126" y="168" width="14" height="10" fill="#ff0"/><rect x="148" y="168" width="14" height="10" fill="#ff0"/><rect x="180" y="200" width="50" height="80" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="186" y="210" width="14" height="10" fill="#ff0"/><rect x="208" y="210" width="14" height="10" fill="#ff0"/><rect x="186" y="228" width="14" height="10" fill="#ff0"/><rect x="208" y="228" width="14" height="10" fill="#ff0"/><rect x="240" y="170" width="50" height="110" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="246" y="180" width="14" height="10" fill="#ff0"/><rect x="268" y="180" width="14" height="10" fill="#ff0"/><rect x="246" y="198" width="14" height="10" fill="#ff0"/><rect x="268" y="198" width="14" height="10" fill="#ff0"/><rect x="300" y="140" width="50" height="140" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="306" y="150" width="14" height="10" fill="#ff0"/><rect x="328" y="150" width="14" height="10" fill="#ff0"/><rect x="306" y="168" width="14" height="10" fill="#ff0"/><rect x="328" y="168" width="14" height="10" fill="#ff0"/><rect x="360" y="200" width="50" height="80" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="366" y="210" width="14" height="10" fill="#ff0"/><rect x="388" y="210" width="14" height="10" fill="#ff0"/><rect x="366" y="228" width="14" height="10" fill="#ff0"/><rect x="388" y="228" width="14" height="10" fill="#ff0"/><rect x="420" y="170" width="50" height="110" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="426" y="180" width="14" height="10" fill="#ff0"/><rect x="448" y="180" width="14" height="10" fill="#ff0"/><rect x="426" y="198" width="14" height="10" fill="#ff0"/><rect x="448" y="198" width="14" height="10" fill="#ff0"/>
+  <!-- street -->
+  <rect x="0" y="280" width="480" height="40" fill="#444"/>
+  <line x1="0" y1="300" x2="480" y2="300" stroke="#ff0" stroke-dasharray="20 10" stroke-width="3"/>
+  <!-- folded buildings hanging from sky -->
+  <rect x="0" y="0" width="50" height="60" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="6" y="10" width="14" height="10" fill="#ff0"/><rect x="28" y="10" width="14" height="10" fill="#ff0"/><rect x="6" y="28" width="14" height="10" fill="#ff0"/><rect x="28" y="28" width="14" height="10" fill="#ff0"/><rect x="60" y="0" width="50" height="90" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="66" y="10" width="14" height="10" fill="#ff0"/><rect x="88" y="10" width="14" height="10" fill="#ff0"/><rect x="66" y="28" width="14" height="10" fill="#ff0"/><rect x="88" y="28" width="14" height="10" fill="#ff0"/><rect x="120" y="0" width="50" height="120" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="126" y="10" width="14" height="10" fill="#ff0"/><rect x="148" y="10" width="14" height="10" fill="#ff0"/><rect x="126" y="28" width="14" height="10" fill="#ff0"/><rect x="148" y="28" width="14" height="10" fill="#ff0"/><rect x="180" y="0" width="50" height="60" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="186" y="10" width="14" height="10" fill="#ff0"/><rect x="208" y="10" width="14" height="10" fill="#ff0"/><rect x="186" y="28" width="14" height="10" fill="#ff0"/><rect x="208" y="28" width="14" height="10" fill="#ff0"/><rect x="240" y="0" width="50" height="90" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="246" y="10" width="14" height="10" fill="#ff0"/><rect x="268" y="10" width="14" height="10" fill="#ff0"/><rect x="246" y="28" width="14" height="10" fill="#ff0"/><rect x="268" y="28" width="14" height="10" fill="#ff0"/><rect x="300" y="0" width="50" height="120" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="306" y="10" width="14" height="10" fill="#ff0"/><rect x="328" y="10" width="14" height="10" fill="#ff0"/><rect x="306" y="28" width="14" height="10" fill="#ff0"/><rect x="328" y="28" width="14" height="10" fill="#ff0"/><rect x="360" y="0" width="50" height="60" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="366" y="10" width="14" height="10" fill="#ff0"/><rect x="388" y="10" width="14" height="10" fill="#ff0"/><rect x="366" y="28" width="14" height="10" fill="#ff0"/><rect x="388" y="28" width="14" height="10" fill="#ff0"/><rect x="420" y="0" width="50" height="90" fill="#666" stroke="#000" stroke-width="2"/>
+            <rect x="426" y="10" width="14" height="10" fill="#ff0"/><rect x="448" y="10" width="14" height="10" fill="#ff0"/><rect x="426" y="28" width="14" height="10" fill="#ff0"/><rect x="448" y="28" width="14" height="10" fill="#ff0"/>
+  <!-- spinning top -->
+  <polygon points="240,210 220,170 260,170" fill="#cfa050" stroke="#000" stroke-width="3"/>
+  <ellipse cx="240" cy="170" rx="20" ry="6" fill="#cfa050" stroke="#000" stroke-width="2"/>
+  <line x1="240" y1="170" x2="240" y2="140" stroke="#000" stroke-width="3"/>
+  <path d="M212 230 Q 240 200 268 230" fill="none" stroke="#000" stroke-dasharray="3 3" stroke-width="2"/>
+  <rect x="137" y="326" width="206" height="22" fill="#fff" stroke="#000" stroke-width="2"/>
+   <text x="240" y="342" text-anchor="middle" font-size="14" font-weight="bold" fill="#000">CITY FOLDS UP. WHY?</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

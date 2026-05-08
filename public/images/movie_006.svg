@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <rect width="480" height="360" fill="#000"/>
+  <!-- green code rain -->
+  <g fill="#0f0" font-size="16" font-family="monospace">
+    <text x="10" y="20" opacity="0.30">1</text><text x="10" y="50" opacity="0.38">0</text><text x="10" y="80" opacity="0.46">1</text><text x="10" y="110" opacity="0.54">1</text><text x="10" y="140" opacity="0.62">1</text><text x="10" y="170" opacity="0.70">0</text><text x="10" y="200" opacity="0.78">1</text><text x="10" y="230" opacity="0.86">0</text><text x="50" y="20" opacity="0.30">1</text><text x="50" y="50" opacity="0.38">1</text><text x="50" y="80" opacity="0.46">0</text><text x="50" y="110" opacity="0.54">1</text><text x="50" y="140" opacity="0.62">0</text><text x="50" y="170" opacity="0.70">0</text><text x="50" y="200" opacity="0.78">0</text><text x="50" y="230" opacity="0.86">1</text><text x="90" y="20" opacity="0.30">1</text><text x="90" y="50" opacity="0.38">1</text><text x="90" y="80" opacity="0.46">0</text><text x="90" y="110" opacity="0.54">1</text><text x="90" y="140" opacity="0.62">0</text><text x="90" y="170" opacity="0.70">1</text><text x="90" y="200" opacity="0.78">1</text><text x="90" y="230" opacity="0.86">1</text><text x="130" y="20" opacity="0.30">1</text><text x="130" y="50" opacity="0.38">0</text><text x="130" y="80" opacity="0.46">0</text><text x="130" y="110" opacity="0.54">0</text><text x="130" y="140" opacity="0.62">1</text><text x="130" y="170" opacity="0.70">1</text><text x="130" y="200" opacity="0.78">1</text><text x="130" y="230" opacity="0.86">1</text><text x="170" y="20" opacity="0.30">1</text><text x="170" y="50" opacity="0.38">0</text><text x="170" y="80" opacity="0.46">0</text><text x="170" y="110" opacity="0.54">0</text><text x="170" y="140" opacity="0.62">0</text><text x="170" y="170" opacity="0.70">1</text><text x="170" y="200" opacity="0.78">0</text><text x="170" y="230" opacity="0.86">1</text><text x="210" y="20" opacity="0.30">1</text><text x="210" y="50" opacity="0.38">0</text><text x="210" y="80" opacity="0.46">1</text><text x="210" y="110" opacity="0.54">0</text><text x="210" y="140" opacity="0.62">0</text><text x="210" y="170" opacity="0.70">0</text><text x="210" y="200" opacity="0.78">0</text><text x="210" y="230" opacity="0.86">0</text><text x="250" y="20" opacity="0.30">1</text><text x="250" y="50" opacity="0.38">1</text><text x="250" y="80" opacity="0.46">0</text><text x="250" y="110" opacity="0.54">1</text><text x="250" y="140" opacity="0.62">0</text><text x="250" y="170" opacity="0.70">0</text><text x="250" y="200" opacity="0.78">1</text><text x="250" y="230" opacity="0.86">1</text><text x="290" y="20" opacity="0.30">0</text><text x="290" y="50" opacity="0.38">0</text><text x="290" y="80" opacity="0.46">1</text><text x="290" y="110" opacity="0.54">0</text><text x="290" y="140" opacity="0.62">1</text><text x="290" y="170" opacity="0.70">0</text><text x="290" y="200" opacity="0.78">1</text><text x="290" y="230" opacity="0.86">0</text><text x="330" y="20" opacity="0.30">0</text><text x="330" y="50" opacity="0.38">0</text><text x="330" y="80" opacity="0.46">1</text><text x="330" y="110" opacity="0.54">1</text><text x="330" y="140" opacity="0.62">0</text><text x="330" y="170" opacity="0.70">1</text><text x="330" y="200" opacity="0.78">0</text><text x="330" y="230" opacity="0.86">1</text><text x="370" y="20" opacity="0.30">0</text><text x="370" y="50" opacity="0.38">0</text><text x="370" y="80" opacity="0.46">1</text><text x="370" y="110" opacity="0.54">1</text><text x="370" y="140" opacity="0.62">0</text><text x="370" y="170" opacity="0.70">0</text><text x="370" y="200" opacity="0.78">0</text><text x="370" y="230" opacity="0.86">1</text><text x="410" y="20" opacity="0.30">1</text><text x="410" y="50" opacity="0.38">0</text><text x="410" y="80" opacity="0.46">0</text><text x="410" y="110" opacity="0.54">0</text><text x="410" y="140" opacity="0.62">1</text><text x="410" y="170" opacity="0.70">1</text><text x="410" y="200" opacity="0.78">1</text><text x="410" y="230" opacity="0.86">0</text><text x="450" y="20" opacity="0.30">0</text><text x="450" y="50" opacity="0.38">1</text><text x="450" y="80" opacity="0.46">1</text><text x="450" y="110" opacity="0.54">1</text><text x="450" y="140" opacity="0.62">0</text><text x="450" y="170" opacity="0.70">0</text><text x="450" y="200" opacity="0.78">0</text><text x="450" y="230" opacity="0.86">0</text>
+  </g>
+  <!-- bullets coming from left -->
+  <circle cx="40" cy="130" r="4" fill="#ff0"/>
+            <line x1="40" y1="130" x2="10" y2="130" stroke="#ff0" stroke-width="2"/><circle cx="50" cy="142" r="4" fill="#ff0"/>
+            <line x1="50" y1="142" x2="20" y2="142" stroke="#ff0" stroke-width="2"/><circle cx="60" cy="154" r="4" fill="#ff0"/>
+            <line x1="60" y1="154" x2="30" y2="154" stroke="#ff0" stroke-width="2"/><circle cx="70" cy="166" r="4" fill="#ff0"/>
+            <line x1="70" y1="166" x2="40" y2="166" stroke="#ff0" stroke-width="2"/><circle cx="80" cy="178" r="4" fill="#ff0"/>
+            <line x1="80" y1="178" x2="50" y2="178" stroke="#ff0" stroke-width="2"/>
+  <!-- Neo bent backward -->
+  <g transform="translate(280 220) rotate(-30)">
+    <ellipse cx="0" cy="0" rx="10" ry="14" fill="#ffe0c0" stroke="#000" stroke-width="3"/>
+    <rect x="-10" y="-4" width="20" height="6" fill="#000"/>
+    <polygon points="-22,16 22,16 30,80 -30,80" fill="#000" stroke="#0f0" stroke-width="3"/>
+    <line x1="-22,18" x2="-50" y1="40" y2="20" stroke="#000" stroke-width="6"/>
+    <line x1="-22" y1="40" x2="-50" y2="60" stroke="#000" stroke-width="6"/>
+    <line x1="22" y1="40" x2="50" y2="20" stroke="#000" stroke-width="6"/>
+    <line x1="-15" y1="80" x2="-30" y2="120" stroke="#000" stroke-width="8"/>
+    <line x1="15" y1="80" x2="30" y2="130" stroke="#000" stroke-width="8"/>
+  </g>
+  <rect x="160" y="14" width="160" height="22" fill="#000" stroke="#0f0" stroke-width="2"/>
+   <text x="240" y="30" text-anchor="middle" font-size="14" font-weight="bold" fill="#0f0">BULLET? NO THX</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

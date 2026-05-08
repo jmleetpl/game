@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <rect width="480" height="360" fill="#0a0a1a"/>
+  <!-- table -->
+  <rect x="40" y="220" width="400" height="20" fill="#666" stroke="#000" stroke-width="3"/>
+  <line x1="80" y1="240" x2="80" y2="320" stroke="#666" stroke-width="6"/>
+  <line x1="400" y1="240" x2="400" y2="320" stroke="#666" stroke-width="6"/>
+  <!-- guy lying back, head left -->
+  <g transform="translate(120 210)">
+    <circle cx="0" cy="0" r="20" fill="#ffe0c0" stroke="#000" stroke-width="3"/>
+    <!-- screaming open mouth -->
+    <ellipse cx="6" cy="6" rx="6" ry="10" fill="#000"/>
+    <!-- eyes squeezed -->
+    <line x1="-8" y1="-4" x2="-2" y2="-2" stroke="#000" stroke-width="3"/>
+    <line x1="2" y1="-2" x2="8" y2="-4" stroke="#000" stroke-width="3"/>
+    <!-- sweat -->
+    <path d="M-16 -16 Q -22 -14 -20 -8" fill="none" stroke="#9be" stroke-width="2"/>
+  </g>
+  <!-- body lying on table -->
+  <ellipse cx="240" cy="220" rx="120" ry="14" fill="#fff" stroke="#000" stroke-width="3"/>
+  <!-- arms flailing -->
+  <line x1="160" y1="220" x2="120" y2="180" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
+  <line x1="320" y1="220" x2="360" y2="180" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
+  <ellipse cx="120" cy="180" rx="10" ry="6" fill="#ffe0c0" stroke="#000" stroke-width="2"/>
+  <ellipse cx="360" cy="180" rx="10" ry="6" fill="#ffe0c0" stroke="#000" stroke-width="2"/>
+  <!-- legs -->
+  <ellipse cx="380" cy="226" rx="40" ry="8" fill="#fff" stroke="#000" stroke-width="3"/>
+  <!-- BURSTER hole + alien -->
+  <ellipse cx="260" cy="216" rx="20" ry="6" fill="#a00" stroke="#000" stroke-width="2"/>
+  <!-- shredded shirt edges -->
+  <polyline points="240,216 244,210 248,218 252,210 256,218 260,210 264,218 268,210 272,218 276,210 280,216" fill="none" stroke="#000" stroke-width="2"/>
+  <!-- Alien chestburster popping out -->
+  <g transform="translate(260 200)">
+    <!-- elongated head -->
+    <ellipse cx="0" cy="0" rx="14" ry="22" fill="#1a1a1a" stroke="#0f8" stroke-width="2"/>
+    <!-- inner mouth tongue -->
+    <ellipse cx="0" cy="2" rx="6" ry="8" fill="#5a0a0a"/>
+    <!-- teeth zigzag -->
+    <polyline points="-6,-2 -3,4 0,-2 3,4 6,-2" fill="none" stroke="#fff" stroke-width="2"/>
+    <!-- highlight ridge -->
+    <ellipse cx="-4" cy="-8" rx="3" ry="2" fill="#0f8" opacity="0.4"/>
+  </g>
+  <!-- blood splatter -->
+  <g fill="#a00">
+    <circle cx="220" cy="200" r="3"/><circle cx="300" cy="200" r="3"/>
+    <circle cx="240" cy="190" r="2"/><circle cx="280" cy="190" r="2"/>
+    <circle cx="260" cy="180" r="4"/>
+    <line x1="240" y1="200" x2="220" y2="180" stroke="#a00" stroke-width="2"/>
+    <line x1="280" y1="200" x2="300" y2="180" stroke="#a00" stroke-width="2"/>
+  </g>
+  <rect x="80" y="14" width="320" height="22" fill="#000" stroke="#0f8" stroke-width="2"/>
+   <text x="240" y="30" text-anchor="middle" font-size="14" font-weight="bold" fill="#0f8">IN SPACE NO ONE HEARS PT 1</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

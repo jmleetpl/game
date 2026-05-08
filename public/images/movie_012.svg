@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <defs><linearGradient id="g12" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#9be0ff"/><stop offset="100%" stop-color="#ddf2ff"/></linearGradient></defs>
+  <rect width="480" height="360" fill="url(#g12)"/>
+  <!-- snowflakes -->
+  <text x="251" y="346" font-size="14" fill="#fff">*</text><text x="233" y="260" font-size="14" fill="#fff">*</text><text x="189" y="296" font-size="14" fill="#fff">*</text><text x="464" y="257" font-size="14" fill="#fff">*</text><text x="9" y="121" font-size="14" fill="#fff">*</text><text x="185" y="33" font-size="14" fill="#fff">*</text><text x="175" y="234" font-size="14" fill="#fff">*</text><text x="459" y="300" font-size="14" fill="#fff">*</text><text x="338" y="261" font-size="14" fill="#fff">*</text><text x="125" y="322" font-size="14" fill="#fff">*</text><text x="106" y="41" font-size="14" fill="#fff">*</text><text x="128" y="65" font-size="14" fill="#fff">*</text><text x="256" y="243" font-size="14" fill="#fff">*</text><text x="107" y="339" font-size="14" fill="#fff">*</text><text x="403" y="2" font-size="14" fill="#fff">*</text><text x="130" y="316" font-size="14" fill="#fff">*</text><text x="150" y="111" font-size="14" fill="#fff">*</text><text x="317" y="18" font-size="14" fill="#fff">*</text><text x="271" y="25" font-size="14" fill="#fff">*</text><text x="128" y="357" font-size="14" fill="#fff">*</text><text x="407" y="286" font-size="14" fill="#fff">*</text><text x="436" y="206" font-size="14" fill="#fff">*</text><text x="96" y="144" font-size="14" fill="#fff">*</text><text x="350" y="260" font-size="14" fill="#fff">*</text>
+  <!-- castle far -->
+  <polygon points="320,260 320,160 340,160 340,140 360,140 360,160 380,160 380,120 400,120 400,160 420,160 420,140 440,140 440,260" fill="#cfeaff" stroke="#3aa" stroke-width="3"/>
+  <!-- ground snow -->
+  <path d="M0 300 Q 80 290 160 300 T 320 300 T 480 300 V 360 H 0 Z" fill="#fff" stroke="#000" stroke-width="3"/>
+  <!-- Elsa: long blond hair, blue dress, arm out shooting ice -->
+  <g>
+    <!-- hair flowing -->
+    <path d="M120 160 Q 80 220 70 280 Q 110 260 120 220 Z" fill="#fff7c0" stroke="#000" stroke-width="2"/>
+    <!-- head -->
+    <circle cx="140" cy="160" r="18" fill="#ffe0c0" stroke="#000" stroke-width="3"/>
+    <!-- eyes + smirk -->
+    <circle cx="134" cy="160" r="2" fill="#000"/>
+    <circle cx="146" cy="160" r="2" fill="#000"/>
+    <path d="M134 170 Q 140 174 146 170" fill="none" stroke="#000" stroke-width="2"/>
+    <!-- bun on top -->
+    <circle cx="138" cy="142" r="6" fill="#fff7c0" stroke="#000" stroke-width="2"/>
+    <!-- body+dress -->
+    <line x1="140" y1="178" x2="140" y2="210" stroke="#000" stroke-width="3"/>
+    <polygon points="120,210 160,210 200,300 80,300" fill="#7ac8ff" stroke="#000" stroke-width="3"/>
+    <!-- glittery dress lines -->
+    <line x1="125" y1="240" x2="195" y2="240" stroke="#fff" stroke-width="1" opacity="0.6"/>
+    <line x1="115" y1="270" x2="205" y2="270" stroke="#fff" stroke-width="1" opacity="0.6"/>
+    <!-- arm out shooting -->
+    <line x1="140" y1="200" x2="240" y2="180" stroke="#ffe0c0" stroke-width="6"/>
+    <!-- ice blast -->
+    <g fill="#7ac8ff" stroke="#000" stroke-width="1">
+      <polygon points="240,180 280,160 270,180 290,180 280,200"/>
+      <polygon points="290,170 320,150 310,170 330,170 320,190"/>
+      <polygon points="330,160 360,140 350,160 370,160 360,180"/>
+    </g>
+    <!-- left arm down -->
+    <line x1="140" y1="200" x2="115" y2="225" stroke="#ffe0c0" stroke-width="6"/>
+  </g>
+  <rect x="167" y="326" width="146" height="22" fill="#fff" stroke="#000" stroke-width="2"/>
+   <text x="240" y="342" text-anchor="middle" font-size="14" font-weight="bold" fill="#000">LET IT GOOOO!</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

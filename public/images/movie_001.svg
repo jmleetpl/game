@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <rect width="480" height="220" fill="#ff9c4a"/>
+  <circle cx="380" cy="100" r="40" fill="#ffe066"/>
+  <rect x="0" y="220" width="480" height="140" fill="#3a6cb0"/>
+  <!-- slanted ship bow -->
+  <polygon points="40,260 380,200 420,260 380,300 40,300" fill="#222" stroke="#000" stroke-width="4"/>
+  <line x1="80" y1="248" x2="380" y2="200" stroke="#999" stroke-width="3"/>
+  <!-- railing -->
+  <line x1="280" y1="218" x2="380" y2="200" stroke="#fff" stroke-width="3"/>
+  <line x1="290" y1="218" x2="290" y2="240" stroke="#fff" stroke-width="2"/>
+  <line x1="320" y1="212" x2="320" y2="232" stroke="#fff" stroke-width="2"/>
+  <line x1="350" y1="206" x2="350" y2="226" stroke="#fff" stroke-width="2"/>
+  <!-- woman: arms out flying-pose, facing right -->
+  <circle cx="350" cy="170" r="14" fill="#ffe0c0" stroke="#000" stroke-width="3"/>
+  <path d="M334 170 Q 340 152 358 158 L 360 174 Q 348 174 334 174 Z" fill="#a05" stroke="#000" stroke-width="2"/>
+  <line x1="350" y1="184" x2="350" y2="206" stroke="#000" stroke-width="3"/>
+  <line x1="350" y1="190" x2="395" y2="180" stroke="#000" stroke-width="4"/>
+  <line x1="350" y1="190" x2="305" y2="180" stroke="#000" stroke-width="4"/>
+  <polygon points="338,206 362,206 372,260 328,260" fill="#a8b" stroke="#000" stroke-width="2"/>
+  <!-- man behind, hands at her waist -->
+  <circle cx="328" cy="180" r="12" fill="#ffe0c0" stroke="#000" stroke-width="3"/>
+  <line x1="328" y1="192" x2="335" y2="220" stroke="#000" stroke-width="3"/>
+  <line x1="328" y1="200" x2="338" y2="208" stroke="#000" stroke-width="3"/>
+  <rect x="172" y="326" width="136" height="22" fill="#fff" stroke="#000" stroke-width="2"/>
+   <text x="240" y="342" text-anchor="middle" font-size="14" font-weight="bold" fill="#000">I FLY, JACK!</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

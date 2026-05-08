@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <defs><linearGradient id="g11" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff7e3d"/><stop offset="100%" stop-color="#ffce63"/></linearGradient></defs>
+  <rect width="480" height="360" fill="url(#g11)"/>
+  <!-- sun -->
+  <circle cx="240" cy="180" r="100" fill="#ffe066"/>
+  <circle cx="240" cy="180" r="60" fill="#ffeb33"/>
+  <!-- pride rock cliff jutting right -->
+  <polygon points="0,360 0,260 80,240 200,260 320,290 480,330 480,360" fill="#3a1a0a" stroke="#000" stroke-width="3"/>
+  <polygon points="160,260 320,290 320,360 160,360" fill="#5a2a10" stroke="#000" stroke-width="3"/>
+  <!-- baboon (Rafiki) at cliff edge -->
+  <ellipse cx="220" cy="240" rx="14" ry="22" fill="#5a3a2a" stroke="#000" stroke-width="3"/>
+  <!-- baboon head -->
+  <circle cx="220" cy="216" r="12" fill="#ffd" stroke="#000" stroke-width="2"/>
+  <ellipse cx="220" cy="220" rx="6" ry="8" fill="#a55" stroke="#000" stroke-width="1"/>
+  <circle cx="216" cy="216" r="1.5" fill="#000"/>
+  <circle cx="224" cy="216" r="1.5" fill="#000"/>
+  <!-- two arms holding cub up -->
+  <line x1="210" y1="226" x2="195" y2="180" stroke="#5a3a2a" stroke-width="6"/>
+  <line x1="230" y1="226" x2="245" y2="180" stroke="#5a3a2a" stroke-width="6"/>
+  <!-- cub silhouette held aloft -->
+  <ellipse cx="220" cy="160" rx="22" ry="14" fill="#e8a05a" stroke="#000" stroke-width="3"/>
+  <circle cx="220" cy="148" r="14" fill="#e8a05a" stroke="#000" stroke-width="3"/>
+  <polygon points="208,138 212,144 218,134" fill="#e8a05a" stroke="#000" stroke-width="2"/>
+  <polygon points="232,138 228,144 222,134" fill="#e8a05a" stroke="#000" stroke-width="2"/>
+  <circle cx="216" cy="148" r="1.5" fill="#000"/>
+  <circle cx="224" cy="148" r="1.5" fill="#000"/>
+  <ellipse cx="220" cy="153" rx="2" ry="1.5" fill="#000"/>
+  <!-- staff with fruit -->
+  <line x1="240" y1="226" x2="265" y2="270" stroke="#7a3a1a" stroke-width="3"/>
+  <circle cx="263" cy="266" r="3" fill="#a00"/>
+  <rect x="127" y="326" width="226" height="22" fill="#fff" stroke="#000" stroke-width="2"/>
+   <text x="240" y="342" text-anchor="middle" font-size="14" font-weight="bold" fill="#000">BABY UP HIGH = PRINCE</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

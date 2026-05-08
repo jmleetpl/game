@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <rect width="480" height="360" fill="#1a0a0a"/>
+  <!-- chasm/lava glow -->
+  <rect x="0" y="280" width="480" height="80" fill="#a04020"/>
+  <rect x="0" y="320" width="480" height="40" fill="#ff5500"/>
+  <!-- bridge -->
+  <rect x="100" y="240" width="280" height="10" fill="#444" stroke="#000" stroke-width="2"/>
+  <rect x="100" y="250" width="280" height="20" fill="#222" stroke="#000" stroke-width="2"/>
+  <!-- crack -->
+  <polyline points="240,240 235,245 245,250 238,255 248,260 240,270" fill="none" stroke="#ff0" stroke-width="3"/>
+  <!-- Gandalf left -->
+  <circle cx="170" cy="200" r="14" fill="#ffe0c0" stroke="#000" stroke-width="3"/>
+  <!-- beard -->
+  <path d="M156 208 Q 170 230 184 208 Z" fill="#fff" stroke="#000" stroke-width="2"/>
+  <!-- hat -->
+  <polygon points="150,194 170,160 190,194" fill="#888" stroke="#000" stroke-width="3"/>
+  <ellipse cx="170" cy="194" rx="22" ry="4" fill="#888" stroke="#000" stroke-width="2"/>
+  <!-- robe -->
+  <polygon points="158,222 182,222 200,240 140,240" fill="#bbb" stroke="#000" stroke-width="3"/>
+  <!-- staff -->
+  <line x1="195" y1="170" x2="210" y2="240" stroke="#7a3a1a" stroke-width="5"/>
+  <circle cx="195" cy="170" r="6" fill="#fff" stroke="#ff0" stroke-width="2"/>
+  <!-- sword in other hand -->
+  <line x1="150" y1="200" x2="130" y2="180" stroke="#bbb" stroke-width="3"/>
+  <!-- Balrog right: red blob with horns and whip -->
+  <path d="M340 240 L 320 200 L 340 180 L 360 160 L 380 180 L 400 200 L 380 240 Z" fill="#a00" stroke="#000" stroke-width="3"/>
+  <polygon points="340,180 332,160 348,170" fill="#000"/>
+  <polygon points="380,180 388,160 372,170" fill="#000"/>
+  <circle cx="350" cy="200" r="3" fill="#ff0"/>
+  <circle cx="370" cy="200" r="3" fill="#ff0"/>
+  <path d="M400 220 Q 420 200 440 220 Q 460 240 440 260" fill="none" stroke="#000" stroke-width="3"/>
+  <rect x="80" y="14" width="320" height="22" fill="#000" stroke="#fff" stroke-width="2"/>
+   <text x="240" y="30" text-anchor="middle" font-size="14" font-weight="bold" fill="#fff">YOU SHALL NOT PASS!</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

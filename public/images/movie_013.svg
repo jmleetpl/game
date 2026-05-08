@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <rect width="480" height="360" fill="#0a0a2a"/>
+  <!-- street -->
+  <rect x="0" y="280" width="480" height="80" fill="#3a3a3a"/>
+  <line x1="0" y1="320" x2="60" y2="320" stroke="#ff0" stroke-width="4"/>
+  <line x1="120" y1="320" x2="180" y2="320" stroke="#ff0" stroke-width="4"/>
+  <line x1="240" y1="320" x2="300" y2="320" stroke="#ff0" stroke-width="4"/>
+  <line x1="360" y1="320" x2="420" y2="320" stroke="#ff0" stroke-width="4"/>
+  <!-- DeLorean shape: angular silver -->
+  <polygon points="240,280 360,280 380,260 360,240 240,240" fill="#cfd8df" stroke="#000" stroke-width="3"/>
+  <polygon points="260,240 350,240 360,225 270,225" fill="#9bb0c0" stroke="#000" stroke-width="3"/>
+  <!-- gull-wing door open -->
+  <polygon points="290,240 310,200 340,200 340,240" fill="#cfd8df" stroke="#000" stroke-width="3"/>
+  <line x1="300" y1="240" x2="320" y2="200" stroke="#666" stroke-width="2"/>
+  <!-- wheels -->
+  <circle cx="270" cy="290" r="14" fill="#000"/>
+  <circle cx="350" cy="290" r="14" fill="#000"/>
+  <!-- license plate -->
+  <rect x="345" y="265" width="30" height="8" fill="#fff" stroke="#000" stroke-width="1"/>
+  <text x="360" y="272" text-anchor="middle" font-size="6">OUTATIME</text>
+  <!-- fire trails -->
+  <polygon points="240,260 100,250 130,265 60,270 140,275 80,290 240,280" fill="#ff5500" stroke="#f00" stroke-width="2"/>
+  <polygon points="240,275 80,280 130,290 60,295 140,300 100,310 240,290" fill="#ff0" stroke="#f00" stroke-width="2"/>
+  <!-- lightning -->
+  <polyline points="120,80 140,140 110,150 150,200 130,210 170,260" fill="none" stroke="#0ff" stroke-width="3"/>
+  <rect x="147" y="326" width="186" height="22" fill="#fff" stroke="#000" stroke-width="2"/>
+   <text x="240" y="342" text-anchor="middle" font-size="14" font-weight="bold" fill="#000">88 MPH = ZAP TIME</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

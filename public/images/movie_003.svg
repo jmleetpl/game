@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <rect width="480" height="360" fill="#000"/>
+  <!-- stars -->
+  <circle cx="240" cy="49" r="1" fill="#fff"/><circle cx="458" cy="155" r="1" fill="#fff"/><circle cx="211" cy="141" r="1" fill="#fff"/><circle cx="266" cy="52" r="1" fill="#fff"/><circle cx="344" cy="9" r="1" fill="#fff"/><circle cx="398" cy="204" r="1" fill="#fff"/><circle cx="198" cy="236" r="1" fill="#fff"/><circle cx="477" cy="249" r="1" fill="#fff"/><circle cx="343" cy="104" r="1" fill="#fff"/><circle cx="416" cy="181" r="1" fill="#fff"/><circle cx="55" cy="202" r="1" fill="#fff"/><circle cx="149" cy="10" r="1" fill="#fff"/><circle cx="83" cy="36" r="1" fill="#fff"/><circle cx="141" cy="182" r="1" fill="#fff"/><circle cx="64" cy="53" r="1" fill="#fff"/><circle cx="445" cy="227" r="1" fill="#fff"/><circle cx="304" cy="189" r="1" fill="#fff"/><circle cx="152" cy="52" r="1" fill="#fff"/><circle cx="98" cy="179" r="1" fill="#fff"/><circle cx="263" cy="152" r="1" fill="#fff"/><circle cx="234" cy="173" r="1" fill="#fff"/><circle cx="439" cy="12" r="1" fill="#fff"/><circle cx="53" cy="19" r="1" fill="#fff"/><circle cx="229" cy="57" r="1" fill="#fff"/><circle cx="4" cy="203" r="1" fill="#fff"/><circle cx="108" cy="106" r="1" fill="#fff"/><circle cx="81" cy="169" r="1" fill="#fff"/><circle cx="86" cy="204" r="1" fill="#fff"/><circle cx="442" cy="150" r="1" fill="#fff"/><circle cx="203" cy="243" r="1" fill="#fff"/>
+  <!-- Vader silhouette body -->
+  <path d="M180 360 L 180 200 L 200 180 L 280 180 L 300 200 L 300 360 Z" fill="#1a1a1a" stroke="#222" stroke-width="2"/>
+  <!-- helmet shape -->
+  <path d="M210 180 L 210 140 Q 210 110 240 105 Q 270 110 270 140 L 270 180 Z" fill="#0a0a0a" stroke="#222" stroke-width="2"/>
+  <!-- visor mask -->
+  <ellipse cx="240" cy="150" rx="22" ry="14" fill="#222"/>
+  <!-- triangular eyes -->
+  <polygon points="222,144 232,154 222,158" fill="#a00"/>
+  <polygon points="258,144 248,154 258,158" fill="#a00"/>
+  <!-- mouth grill -->
+  <rect x="226" y="160" width="28" height="6" fill="#222" stroke="#666" stroke-width="1"/>
+  <line x1="232" y1="160" x2="232" y2="166" stroke="#666"/>
+  <line x1="240" y1="160" x2="240" y2="166" stroke="#666"/>
+  <line x1="248" y1="160" x2="248" y2="166" stroke="#666"/>
+  <!-- red saber -->
+  <line x1="290" y1="240" x2="380" y2="100" stroke="#a00" stroke-width="10"/>
+  <line x1="290" y1="240" x2="380" y2="100" stroke="#fff" stroke-width="3"/>
+  <line x1="285" y1="245" x2="295" y2="235" stroke="#888" stroke-width="6"/>
+  <rect x="127" y="326" width="226" height="22" fill="#fff" stroke="#000" stroke-width="2"/>
+   <text x="240" y="342" text-anchor="middle" font-size="14" font-weight="bold" fill="#000">LUKE... I AM YOUR DAD</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

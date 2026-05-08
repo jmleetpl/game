@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <rect width="480" height="360" fill="#0a1830"/>
+  <!-- lightning -->
+  <polyline points="100,0 130,80 110,90 150,180" fill="none" stroke="#ff0" stroke-width="3"/>
+  <!-- rain -->
+  <line x1="327" y1="313" x2="319" y2="337" stroke="#aef" stroke-width="2"/><line x1="208" y1="144" x2="200" y2="168" stroke="#aef" stroke-width="2"/><line x1="254" y1="238" x2="246" y2="262" stroke="#aef" stroke-width="2"/><line x1="444" y1="340" x2="436" y2="364" stroke="#aef" stroke-width="2"/><line x1="235" y1="98" x2="227" y2="122" stroke="#aef" stroke-width="2"/><line x1="48" y1="164" x2="40" y2="188" stroke="#aef" stroke-width="2"/><line x1="356" y1="341" x2="348" y2="365" stroke="#aef" stroke-width="2"/><line x1="403" y1="339" x2="395" y2="363" stroke="#aef" stroke-width="2"/><line x1="344" y1="307" x2="336" y2="331" stroke="#aef" stroke-width="2"/><line x1="227" y1="148" x2="219" y2="172" stroke="#aef" stroke-width="2"/><line x1="252" y1="195" x2="244" y2="219" stroke="#aef" stroke-width="2"/><line x1="214" y1="334" x2="206" y2="358" stroke="#aef" stroke-width="2"/><line x1="411" y1="128" x2="403" y2="152" stroke="#aef" stroke-width="2"/><line x1="30" y1="202" x2="22" y2="226" stroke="#aef" stroke-width="2"/><line x1="58" y1="60" x2="50" y2="84" stroke="#aef" stroke-width="2"/><line x1="38" y1="344" x2="30" y2="368" stroke="#aef" stroke-width="2"/><line x1="245" y1="155" x2="237" y2="179" stroke="#aef" stroke-width="2"/><line x1="379" y1="180" x2="371" y2="204" stroke="#aef" stroke-width="2"/><line x1="459" y1="119" x2="451" y2="143" stroke="#aef" stroke-width="2"/><line x1="203" y1="273" x2="195" y2="297" stroke="#aef" stroke-width="2"/><line x1="145" y1="121" x2="137" y2="145" stroke="#aef" stroke-width="2"/><line x1="205" y1="301" x2="197" y2="325" stroke="#aef" stroke-width="2"/><line x1="455" y1="4" x2="447" y2="28" stroke="#aef" stroke-width="2"/><line x1="174" y1="116" x2="166" y2="140" stroke="#aef" stroke-width="2"/><line x1="101" y1="323" x2="93" y2="347" stroke="#aef" stroke-width="2"/><line x1="130" y1="27" x2="122" y2="51" stroke="#aef" stroke-width="2"/><line x1="101" y1="311" x2="93" y2="335" stroke="#aef" stroke-width="2"/><line x1="330" y1="150" x2="322" y2="174" stroke="#aef" stroke-width="2"/><line x1="52" y1="220" x2="44" y2="244" stroke="#aef" stroke-width="2"/><line x1="134" y1="210" x2="126" y2="234" stroke="#aef" stroke-width="2"/><line x1="171" y1="333" x2="163" y2="357" stroke="#aef" stroke-width="2"/><line x1="17" y1="121" x2="9" y2="145" stroke="#aef" stroke-width="2"/><line x1="360" y1="156" x2="352" y2="180" stroke="#aef" stroke-width="2"/><line x1="125" y1="99" x2="117" y2="123" stroke="#aef" stroke-width="2"/><line x1="248" y1="91" x2="240" y2="115" stroke="#aef" stroke-width="2"/><line x1="414" y1="314" x2="406" y2="338" stroke="#aef" stroke-width="2"/><line x1="275" y1="273" x2="267" y2="297" stroke="#aef" stroke-width="2"/><line x1="335" y1="0" x2="327" y2="24" stroke="#aef" stroke-width="2"/><line x1="235" y1="148" x2="227" y2="172" stroke="#aef" stroke-width="2"/><line x1="320" y1="58" x2="312" y2="82" stroke="#aef" stroke-width="2"/><line x1="443" y1="24" x2="435" y2="48" stroke="#aef" stroke-width="2"/><line x1="236" y1="190" x2="228" y2="214" stroke="#aef" stroke-width="2"/><line x1="383" y1="172" x2="375" y2="196" stroke="#aef" stroke-width="2"/><line x1="118" y1="166" x2="110" y2="190" stroke="#aef" stroke-width="2"/><line x1="48" y1="326" x2="40" y2="350" stroke="#aef" stroke-width="2"/><line x1="317" y1="278" x2="309" y2="302" stroke="#aef" stroke-width="2"/><line x1="399" y1="168" x2="391" y2="192" stroke="#aef" stroke-width="2"/><line x1="34" y1="40" x2="26" y2="64" stroke="#aef" stroke-width="2"/><line x1="472" y1="13" x2="464" y2="37" stroke="#aef" stroke-width="2"/><line x1="292" y1="127" x2="284" y2="151" stroke="#aef" stroke-width="2"/><line x1="382" y1="236" x2="374" y2="260" stroke="#aef" stroke-width="2"/><line x1="212" y1="10" x2="204" y2="34" stroke="#aef" stroke-width="2"/><line x1="470" y1="78" x2="462" y2="102" stroke="#aef" stroke-width="2"/><line x1="13" y1="257" x2="5" y2="281" stroke="#aef" stroke-width="2"/><line x1="298" y1="255" x2="290" y2="279" stroke="#aef" stroke-width="2"/><line x1="140" y1="288" x2="132" y2="312" stroke="#aef" stroke-width="2"/><line x1="439" y1="279" x2="431" y2="303" stroke="#aef" stroke-width="2"/><line x1="254" y1="85" x2="246" y2="109" stroke="#aef" stroke-width="2"/><line x1="323" y1="238" x2="315" y2="262" stroke="#aef" stroke-width="2"/><line x1="56" y1="48" x2="48" y2="72" stroke="#aef" stroke-width="2"/>
+  <!-- ground/water -->
+  <rect x="0" y="280" width="480" height="80" fill="#1a2a40"/>
+  <!-- man arms-up shouting -->
+  <g>
+    <circle cx="240" cy="120" r="20" fill="#ffe0c0" stroke="#000" stroke-width="3"/>
+    <!-- open mouth -->
+    <ellipse cx="240" cy="128" rx="6" ry="8" fill="#000"/>
+    <!-- arms straight up -->
+    <line x1="222" y1="138" x2="180" y2="60" stroke="#000" stroke-width="6"/>
+    <line x1="258" y1="138" x2="300" y2="60" stroke="#000" stroke-width="6"/>
+    <!-- bare torso -->
+    <polygon points="222,138 258,138 280,260 200,260" fill="#ffe0c0" stroke="#000" stroke-width="3"/>
+    <!-- legs -->
+    <line x1="220" y1="260" x2="200" y2="320" stroke="#000" stroke-width="8"/>
+    <line x1="260" y1="260" x2="280" y2="320" stroke="#000" stroke-width="8"/>
+  </g>
+  <rect x="60" y="14" width="360" height="22" fill="#000" stroke="#fff" stroke-width="2"/>
+   <text x="240" y="30" text-anchor="middle" font-size="14" font-weight="bold" fill="#fff">FREEEEDOM!! (rain + 19 yrs)</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

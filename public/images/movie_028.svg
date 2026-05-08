@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <rect width="480" height="360" fill="#dab780"/>
+  <!-- cave wall texture -->
+  <path d="M0 60 Q 100 40 200 60 T 480 60 V 0 H 0 Z" fill="#7a4a2a" stroke="#000" stroke-width="3"/>
+  <path d="M0 360 V 320 Q 100 340 200 320 T 480 320 V 360 Z" fill="#7a4a2a" stroke="#000" stroke-width="3"/>
+  <!-- ground line -->
+  <line x1="0" y1="320" x2="480" y2="320" stroke="#000" stroke-width="3"/>
+  <!-- big boulder right -->
+  <circle cx="380" cy="220" r="100" fill="#5a3a1a" stroke="#000" stroke-width="4"/>
+  <circle cx="350" cy="190" r="10" fill="#3a2a1a"/>
+  <circle cx="410" cy="240" r="14" fill="#3a2a1a"/>
+  <circle cx="370" cy="260" r="6" fill="#3a2a1a"/>
+  <!-- motion swooshes -->
+  <line x1="450" y1="180" x2="480" y2="180" stroke="#000" stroke-width="3"/>
+  <line x1="440" y1="220" x2="475" y2="220" stroke="#000" stroke-width="3"/>
+  <line x1="450" y1="260" x2="480" y2="260" stroke="#000" stroke-width="3"/>
+  <!-- dust under boulder -->
+  <ellipse cx="380" cy="320" rx="80" ry="6" fill="#fff" opacity="0.6"/>
+  <!-- Indy running left -->
+  <g transform="translate(140 220)">
+    <!-- fedora -->
+    <ellipse cx="0" cy="-30" rx="26" ry="4" fill="#5a3a1a" stroke="#000" stroke-width="2"/>
+    <path d="M-16 -30 Q 0 -50 16 -30 Z" fill="#5a3a1a" stroke="#000" stroke-width="2"/>
+    <line x1="-12" y1="-32" x2="12" y2="-32" stroke="#3a2010" stroke-width="2"/>
+    <!-- head -->
+    <circle cx="0" cy="-10" r="12" fill="#ffe0c0" stroke="#000" stroke-width="3"/>
+    <!-- scared face -->
+    <ellipse cx="-3" cy="-12" rx="2" ry="3" fill="#fff"/>
+    <ellipse cx="3" cy="-12" rx="2" ry="3" fill="#fff"/>
+    <circle cx="-3" cy="-12" r="1" fill="#000"/>
+    <circle cx="3" cy="-12" r="1" fill="#000"/>
+    <ellipse cx="0" cy="-2" rx="3" ry="3" fill="#000"/>
+    <!-- shirt+jacket -->
+    <polygon points="-14,4 14,4 16,40 -16,40" fill="#a07a3a" stroke="#000" stroke-width="3"/>
+    <!-- running legs (one back, one forward) -->
+    <line x1="-6" y1="40" x2="-30" y2="60" stroke="#5a3a1a" stroke-width="8"/>
+    <line x1="6" y1="40" x2="20" y2="80" stroke="#5a3a1a" stroke-width="8"/>
+    <ellipse cx="-32" cy="62" rx="10" ry="3" fill="#3a2010"/>
+    <ellipse cx="22" cy="82" rx="10" ry="3" fill="#3a2010"/>
+    <!-- arms running -->
+    <line x1="-14" y1="14" x2="-40" y2="0" stroke="#a07a3a" stroke-width="6"/>
+    <line x1="14" y1="14" x2="40" y2="-10" stroke="#a07a3a" stroke-width="6"/>
+    <!-- whip in hand -->
+    <path d="M40 -10 Q 60 -20 70 0 Q 60 20 50 30" fill="none" stroke="#3a2010" stroke-width="3"/>
+  </g>
+  <rect x="192" y="326" width="96" height="22" fill="#fff" stroke="#000" stroke-width="2"/>
+   <text x="240" y="342" text-anchor="middle" font-size="14" font-weight="bold" fill="#000">!!!!!!!!</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>

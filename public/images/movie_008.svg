@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360" font-family="'Comic Sans MS','Courier New',monospace" shape-rendering="crispEdges">
+<rect width="480" height="360" fill="#fff"/>
+
+  <rect width="480" height="220" fill="#cfe6ff"/>
+  <rect x="0" y="220" width="480" height="140" fill="#7ac56a"/>
+  <!-- bench -->
+  <rect x="60" y="250" width="360" height="14" fill="#a05a2a" stroke="#000" stroke-width="3"/>
+  <rect x="60" y="220" width="360" height="6" fill="#a05a2a" stroke="#000" stroke-width="3"/>
+  <line x1="80" y1="220" x2="80" y2="290" stroke="#000" stroke-width="3"/>
+  <line x1="400" y1="220" x2="400" y2="290" stroke="#000" stroke-width="3"/>
+  <!-- forrest sitting -->
+  <circle cx="240" cy="200" r="16" fill="#ffe0c0" stroke="#000" stroke-width="3"/>
+  <!-- short hair -->
+  <path d="M226 196 Q 240 178 254 196 Z" fill="#7a4a1a"/>
+  <!-- white shirt body -->
+  <rect x="222" y="216" width="36" height="40" fill="#fff" stroke="#000" stroke-width="3"/>
+  <!-- tie -->
+  <polygon points="236,216 244,216 246,250 234,250" fill="#a00"/>
+  <!-- arms holding box -->
+  <line x1="222" y1="226" x2="200" y2="246" stroke="#ffe0c0" stroke-width="6"/>
+  <line x1="258" y1="226" x2="280" y2="246" stroke="#ffe0c0" stroke-width="6"/>
+  <!-- box -->
+  <rect x="200" y="246" width="80" height="20" fill="#7a3a1a" stroke="#000" stroke-width="3"/>
+  <line x1="200" y1="256" x2="280" y2="256" stroke="#ffd" stroke-width="2"/>
+  <text x="240" y="262" text-anchor="middle" font-size="8" fill="#fff">CHOCOLATES</text>
+  <!-- legs hang -->
+  <line x1="232" y1="256" x2="220" y2="290" stroke="#3a3a8a" stroke-width="6"/>
+  <line x1="248" y1="256" x2="260" y2="290" stroke="#3a3a8a" stroke-width="6"/>
+  <!-- shoes -->
+  <ellipse cx="218" cy="295" rx="10" ry="4" fill="#fff" stroke="#000" stroke-width="2"/>
+  <ellipse cx="262" cy="295" rx="10" ry="4" fill="#fff" stroke="#000" stroke-width="2"/>
+  <!-- suitcase -->
+  <rect x="320" y="218" width="50" height="36" fill="#a05a3a" stroke="#000" stroke-width="3"/>
+  <rect x="338" y="210" width="14" height="10" fill="#a05a3a" stroke="#000" stroke-width="2"/>
+  <!-- feather -->
+  <g transform="translate(120 80)">
+    <path d="M0 0 Q 20 20 10 60 Q 5 40 -20 30 Q 5 30 10 10" fill="#fff" stroke="#000" stroke-width="2"/>
+    <line x1="10" y1="60" x2="20" y2="100" stroke="#000" stroke-width="2"/>
+  </g>
+  <rect x="132" y="326" width="216" height="22" fill="#fff" stroke="#000" stroke-width="2"/>
+   <text x="240" y="342" text-anchor="middle" font-size="14" font-weight="bold" fill="#000">LIFE = CHOCOLATE BOX</text>
+
+<rect x="2" y="2" width="476" height="356" fill="none" stroke="#000" stroke-width="5"/>
+</svg>
